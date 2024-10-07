@@ -6,6 +6,8 @@
 
 This project is an interactive web application that simulates a modern orrery, inspired by the first mechanical model of the solar system presented to Charles Boyle, 4th Earl of Orrery, in 1713. Unlike traditional physical orreries, our application uses advanced digital tools to deliver an enriching experience displaying celestial bodies such as planets, near-Earth asteroids, near-Earth comets, and potentially hazardous asteroids.
 
+This project is an interactive web application that simulates a modern orrery, inspired by the first mechanical model of the solar system presented to Charles Boyle, 4th Earl of Orrery, in 1713. Unlike traditional physical orreries, our application uses advanced digital tools to offer an enriching experience that showcases near-Earth celestial bodies.
+
 ## Technologies Used
 
 - **Frontend**: JavaScript
