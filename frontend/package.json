@@ -1,0 +1,20 @@
+{
+  "name": "threejs-journey-exercise",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dat.gui": "^0.7.9",
+    "mathjs": "^13.2.0",
+    "postprocessing": "^7.0.0-alpha-1",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
