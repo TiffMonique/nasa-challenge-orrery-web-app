@@ -52,3 +52,17 @@ To get started with Orrery Web App, follow these steps:
     ```bash
     npm run dev
    ```
+
+## Fuentes y Recursos
+
+### Library 3D:
+- [Three.js](https://threejs.org/)
+
+### Modeling System Solar:
+- [Build 3D Apps with React: Animated Solar System (Part 2)](https://medium.com/geekculture/build-3d-apps-with-react-animated-solar-system-part-2-1186a5c8bd1)
+
+### 3D Objetos y Texturas:
+- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/images)
+- [Solar System Scope Textures](https://www.solarsystemscope.com/textures/)
+- [Planet Pixel Emporium](https://planetpixelemporium.com/index.php)
+
