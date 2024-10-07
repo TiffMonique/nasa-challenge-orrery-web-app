@@ -53,7 +53,7 @@ To get started with Orrery Web App, follow these steps:
     npm run dev
    ```
 
-## Fuentes y Recursos
+## Sources and Resources
 
 ### Library 3D:
 - [Three.js](https://threejs.org/)
